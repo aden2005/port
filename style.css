@@ -277,6 +277,7 @@ body{
     flex-wrap: wrap;
     margin-bottom: 200px;
     padding-left: 47px;
+    margin:5px;
 }
 footer{
     background: rgba(123, 74, 226, 0.1);
@@ -293,4 +294,5 @@ footer{
     border: none;
     width: 360px;
     height: 460px;
+    margin:10px;
 }
